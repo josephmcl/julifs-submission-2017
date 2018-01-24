@@ -4,7 +4,7 @@ My submission for the julifs programming contest held at the UO for spring 2017.
 ```
 usage:
 $ make solution 
-$ ./solution < <input> 
+$ ./solution < [input] 
 
 Use in and out for judging.
 use in_sample and out_sample as sample data.
