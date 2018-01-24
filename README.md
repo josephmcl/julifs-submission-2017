@@ -10,5 +10,5 @@ Use in and out for judging.
 use in_sample and out_sample as sample data.
 
 Joseph McLaughlin
-Julif's Contest, Spring 2017
+Julifs Programming Contest, Spring 2017
 ```
