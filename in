@@ -23,21 +23,4 @@
 11
 1 6 15 28 45 66 91 120 153 190 231
 *2+2*+*2-2
-
-typedef struct Intermediate_Node i_node_t; //TODO: header?
-struct Intermediate_Node {
-	int Value, Rank;
-	i_node_t * Parent, Root;
-};
-
-i_node_t * NewINode(int Value) {
-	i_node_t * rv = malloc(sizeof(i_node_t));
-	rv->Value = Value;
-	rv->Parent = NULL;
-	rv->Root = NULL;
-	rv->Rank = 0;
-}
-i_node_t * 
-
-void Union(i_node_t * Left, i_node_t Right) {
 	
